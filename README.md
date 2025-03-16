@@ -12,7 +12,6 @@ A computer vision application that uses YOLOv8 object detection with depth estim
 
 This project was inspired by and builds upon [Nicolai Nielsen's](https://www.youtube.com/watch?v=wAKmKsZ9PSw) YouTube tutorials.
 
-![3D Object Detection Example](https://via.placeholder.com/800x400?text=3D+Object+Detection+Example)
 
 ## Features
 
