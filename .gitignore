@@ -1,0 +1,99 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Model files
+*.pt
+*.pth
+*.weights
+*.onnx
+*.trt
+*.mlmodel
+*.pb
+
+# OpenCV and video outputs
+*.mp4
+*.avi
+*.mov
+*.mkv
+output*/
+output.mp4
+videos/
+output_videos/
+
+# Images
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tif
+*.tiff
+dataset*/
+images/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*.ipynb
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# OS specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+logs/
+
+# Distribution / packaging
+.env
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+.python-version
+
+# Project specific
+depth_cache/
+model_cache/
+*.pickle
+*.joblib
+wandb/
+runs/ 
