@@ -1,5 +1,7 @@
 # YOLO11 3D Object Detection
 
+<img width="1280" alt="Screenshot 2025-03-16 at 09 58 12" src="https://github.com/user-attachments/assets/a70280e0-653a-4948-b61b-d125f31dbf69" />
+
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green.svg)](https://opencv.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange.svg)](https://pytorch.org/)
